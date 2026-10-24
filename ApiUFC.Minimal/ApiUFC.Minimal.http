@@ -1,0 +1,6 @@
+@ApiUFC.Minimal_HostAddress = http://localhost:5065
+
+GET {{ApiUFC.Minimal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
