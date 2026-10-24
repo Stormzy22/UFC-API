@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33913683/README.md)
 # 🥊 UFC API
 
 A RESTful API built with **C# and ASP.NET Core (.NET 8)** to manage UFC fighters, weight divisions, and nations. This project explores two approaches to building APIs in .NET: **controller-based APIs** and **Minimal APIs**.
